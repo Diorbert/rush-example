@@ -24,7 +24,7 @@
     "chai": "4.0.0",
     "mocha": "9.0.0",
     "neo4j-driver": "5.0.0",
-    "apexcharts": "2.4.0"
+    "apexcharts": "2.6.0"
   },
   "devDependencies": {
     "my-toolchain": "workspace:^1.0.0",
