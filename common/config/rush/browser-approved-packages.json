@@ -51,6 +51,10 @@
       "allowedCategories": [ "production" ]
     },
     {
+      "name": "neo4j-driver",
+      "allowedCategories": [ "production" ]
+    },
+    {
       "name": "prettier",
       "allowedCategories": [ "production" ]
     },
