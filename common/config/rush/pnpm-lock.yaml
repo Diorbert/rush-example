@@ -18,7 +18,7 @@ importers:
       jointjs: 3.5.0
       lodash: 3.0.0
       mocha: 9.0.0
-      mongoose: 7.0.2
+      mongoose: 7.0.3
       my-controls: workspace:^1.0.0
       my-toolchain: workspace:^1.0.0
       neo4j-driver: 5.0.0
@@ -38,7 +38,7 @@ importers:
       jointjs: 3.5.0
       lodash: 3.0.0
       mocha: 9.0.0
-      mongoose: 7.0.2
+      mongoose: 7.0.3
       my-controls: link:../../libraries/my-controls
       neo4j-driver: 5.0.0
       rambda: 7.0.0
@@ -3006,8 +3006,8 @@ packages:
       saslprep: 1.0.3
     dev: false
 
-  /mongoose/7.0.2:
-    resolution: {integrity: sha512-whX+5lAOLOs6VXRr9w+6m5qb8m/IXWLLb9+0/HRUh2TiIYtTt7UvajK92zW6wllCjBkrrnz/MDIOTCWMbs8K4g==}
+  /mongoose/7.0.3:
+    resolution: {integrity: sha512-3n8vc1/mssuxKa6vfghSocp3MeiCFYzhX36Ok+PsDNNYzHC9tw3rNkAMLemIwZ2jgXqkZ7CfKOxkzjp/d/SWfg==}
     engines: {node: '>=14.0.0'}
     dependencies:
       bson: 5.1.0
